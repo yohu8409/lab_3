@@ -1,0 +1,6 @@
+YongQi Yu
+https://github.com/yohu8409/lab_3.git
+git add .
+git commit -m "Adding all of the files for lab 3"
+git push
+
